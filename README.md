@@ -9,3 +9,8 @@
 ### - Which county had the largest number of votes?
 ####    Denver had the largest number of votes.
 ### - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+####    There were a total of three candidates, Raymond Anthony Doane had 3.1% of the total votes at 11,606 votes. Next there is Diana DeGette with 272,892 votes which is 73.8% of the votes. Last there is candidate Charles Casper Stockham. Stockham had 23.0% of the votes whcih was a total of 85,213 votes.
+### - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+####    Diana DeGette won the election with a total of 272,982 votes equally to 73.8 of the total votes.
+## Election-Audit Summary:
+#### With the amount of data that results in an election it is imperitive that tools are created to make processing that data efficient. Using this code will allow for data to be processed faster and with more accuracy than if done by people. This script can be modified to work with other elections for example if the elections involved states they could be added into the script. Additionally there could be a part of teh script that looked at what party the candidate was in.
